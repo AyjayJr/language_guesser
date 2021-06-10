@@ -1,0 +1,23 @@
+{
+  "name": "languageguesser",
+  "version": "1.0.0",
+  "description": "Guess language based on input string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyjayJr/Language_Guesser.git"
+  },
+  "author": "Anthony Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyjayJr/Language_Guesser/issues"
+  },
+  "homepage": "https://github.com/AyjayJr/Language_Guesser#readme",
+  "dependencies": {
+    "franc": "^5.0.0",
+    "langs": "^2.0.0"
+  }
+}
